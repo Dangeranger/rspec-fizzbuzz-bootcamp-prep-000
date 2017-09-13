@@ -3,3 +3,7 @@ def fizzbuzz(num)
   return 'Fizz'     if ->(n) { n % 3 == 0 }.(num)
   return 'Buzz'     if ->(n) { n % 5 == 0 }.(num)
 end
+
+def fizzbuzz(num)
+  
+end
